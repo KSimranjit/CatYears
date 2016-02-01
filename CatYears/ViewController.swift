@@ -10,6 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var catsAgeLabel: UITextField!
+    @IBOutlet weak var ageOutput: UILabel!
+    @IBAction func findCatAge(sender: AnyObject) {
+        var catAge = Int(catsAgeLabel.text!)!
+        catAge = catAge * 7
+        
+        ageOutput.text = "Your cat is \(catAge)"
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

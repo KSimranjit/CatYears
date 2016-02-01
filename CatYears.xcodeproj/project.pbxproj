@@ -12,6 +12,7 @@
 		2A21FAC41C5F67D800C854B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A21FAC21C5F67D800C854B9 /* Main.storyboard */; };
 		2A21FAC61C5F67D800C854B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A21FAC51C5F67D800C854B9 /* Assets.xcassets */; };
 		2A21FAC91C5F67D800C854B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A21FAC71C5F67D800C854B9 /* LaunchScreen.storyboard */; };
+		2A21FAD11C5F695100C854B9 /* cutecat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A21FAD01C5F695100C854B9 /* cutecat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2A21FAC51C5F67D800C854B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A21FAC81C5F67D800C854B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A21FACA1C5F67D800C854B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A21FAD01C5F695100C854B9 /* cutecat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cutecat.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2A21FABE1C5F67D800C854B9 /* AppDelegate.swift */,
 				2A21FAC01C5F67D800C854B9 /* ViewController.swift */,
 				2A21FAC21C5F67D800C854B9 /* Main.storyboard */,
+				2A21FAD01C5F695100C854B9 /* cutecat.jpg */,
 				2A21FAC51C5F67D800C854B9 /* Assets.xcassets */,
 				2A21FAC71C5F67D800C854B9 /* LaunchScreen.storyboard */,
 				2A21FACA1C5F67D800C854B9 /* Info.plist */,
@@ -125,6 +128,7 @@
 				2A21FAC91C5F67D800C854B9 /* LaunchScreen.storyboard in Resources */,
 				2A21FAC61C5F67D800C854B9 /* Assets.xcassets in Resources */,
 				2A21FAC41C5F67D800C854B9 /* Main.storyboard in Resources */,
+				2A21FAD11C5F695100C854B9 /* cutecat.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
